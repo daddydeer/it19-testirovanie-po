@@ -1,0 +1,30 @@
+{
+  "repository_url": "https://github.com/daddydeer/it19-testirovanie-po",
+  "issues": {
+    "ERR-01": {
+      "url": "https://github.com/daddydeer/it19-testirovanie-po/issues/1",
+      "number": 1,
+      "title": "ERR-01 — Кнопка Add to cart не добавляет Sauce Labs Bolt T-Shirt"
+    },
+    "ERR-02": {
+      "url": "https://github.com/daddydeer/it19-testirovanie-po/issues/2",
+      "number": 2,
+      "title": "ERR-02 — Finish не завершает оформление заказа"
+    },
+    "VIS-01": {
+      "url": "https://github.com/daddydeer/it19-testirovanie-po/issues/3",
+      "number": 3,
+      "title": "VIS-01 — Значок корзины смещён из правого верхнего угла"
+    },
+    "VIS-02": {
+      "url": "https://github.com/daddydeer/it19-testirovanie-po/issues/4",
+      "number": 4,
+      "title": "VIS-02 — Кнопка последнего товара выходит за границы карточки"
+    },
+    "VIS-03": {
+      "url": "https://github.com/daddydeer/it19-testirovanie-po/issues/5",
+      "number": 5,
+      "title": "VIS-03 — Цена товара в каталоге не совпадает с ценой в корзине"
+    }
+  }
+}

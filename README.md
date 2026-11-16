@@ -28,4 +28,8 @@
 
 ## Баг-репорты в GitHub
 
-Пять отдельных Issues публикуются из материалов папки `issues/`.
+- [ERR-01 — Кнопка Add to cart не добавляет Sauce Labs Bolt T-Shirt](https://github.com/daddydeer/it19-testirovanie-po/issues/1)
+- [ERR-02 — Finish не завершает оформление заказа](https://github.com/daddydeer/it19-testirovanie-po/issues/2)
+- [VIS-01 — Значок корзины смещён из правого верхнего угла](https://github.com/daddydeer/it19-testirovanie-po/issues/3)
+- [VIS-02 — Кнопка последнего товара выходит за границы карточки](https://github.com/daddydeer/it19-testirovanie-po/issues/4)
+- [VIS-03 — Цена товара в каталоге не совпадает с ценой в корзине](https://github.com/daddydeer/it19-testirovanie-po/issues/5)
