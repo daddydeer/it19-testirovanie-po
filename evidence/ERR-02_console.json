@@ -1,0 +1,7 @@
+[
+  {
+    "type": "pageerror",
+    "text": "wa.cesetRart is not a function",
+    "stack": "TypeError: wa.cesetRart is not a function\n    at n (https://www.saucedemo.com/assets/index-DnLqFcJI.js:573:15945)\n    at onClick (https://www.saucedemo.com/assets/index-DnLqFcJI.js:573:18113)\n    at yd (https://www.saucedemo.com/assets/index-DnLqFcJI.js:15:126079)\n    at https://www.saucedemo.com/assets/index-DnLqFcJI.js:15:131072\n    at ln (https://www.saucedemo.com/assets/index-DnLqFcJI.js:15:15065)\n    at wd (https://www.saucedemo.com/assets/index-DnLqFcJI.js:15:127306)\n    at dp (https://www.saucedemo.com/assets/index-DnLqFcJI.js:16:28441)\n    at lp (https://www.saucedemo.com/assets/index-DnLqFcJI.js:16:28263)"
+  }
+]
